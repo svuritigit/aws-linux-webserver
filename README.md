@@ -107,6 +107,7 @@ docker images
 
 
 
+
 Check Web Server Output
 
 docker exec -it nginx cat /usr/share/nginx/html/index.html
@@ -115,4 +116,6 @@ docker exec -it nginx cat /usr/share/nginx/html/index.html
 📸 Final Live Deployment
 The application is successfully running and fully accessible at:
 👉 http://51.21.170.145
+
+<img width="1890" height="894" alt="104dd8b8-0735-4a04-b3b7-cf4eb16824dc" src="https://github.com/user-attachments/assets/0f4efea9-01ca-4f89-ae05-6774aec8f942" />
 
